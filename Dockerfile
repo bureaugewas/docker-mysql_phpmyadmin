@@ -1,4 +1,4 @@
-FROM node:12-buster-slim
+FROM ubuntu:12.04
 
 MAINTAINER Wei-Ming Wu <wnameless@gmail.com>
 
